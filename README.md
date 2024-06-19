@@ -1,4 +1,4 @@
-Projeto de ToDoList baseado em HTMX (primeiro projeto de frontend) 
+Projeto de ToDoList baseado em HTMX, usando sequelize, express e javascript (primeiro projeto de frontend) 
 
 
 Projeto Prático:
